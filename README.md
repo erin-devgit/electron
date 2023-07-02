@@ -1,4 +1,4 @@
-# electron
+# electron toy project
 Electron 을 활용한 To-Do List Descktop Application 
 
 
